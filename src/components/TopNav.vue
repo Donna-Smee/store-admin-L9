@@ -4,7 +4,7 @@
       <a href="/">
         <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
       </a>
-      Admin Portal :D
+      Admin Portal :D :D
     </div>
     <ul class="nav-links" :class="{ 'nav-links--open': isNavOpen }">
       <li><router-link to="/orders" @click="closeNav">Orders</router-link></li>
