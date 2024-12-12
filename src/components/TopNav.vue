@@ -4,7 +4,7 @@
       <a href="/">
         <img src="/best-buy-logo.png" alt="Best Buy Logo">
       </a>
-      Admin Portal :D :D
+      Admin Portal :D :D !!
     </div>
     <ul class="nav-links" :class="{ 'nav-links--open': isNavOpen }">
       <li><router-link to="/orders" @click="closeNav">Orders</router-link></li>
